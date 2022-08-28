@@ -2721,7 +2721,7 @@ let capt = `⭔ Title: ${judul}
                 ]
                 },
                 ]
-                hisoka.sendListMsg(m.chat, `pilih aja *Rull* Setmenu nya!`, hisoka.user.name, `*Hello Arull* !`, `Pilih Rull`, sections, m)
+                hisoka.sendListMsg(m.chat, `pilih aja *Tmn* Setmenu nya!`, hisoka.user.name, `*Hello Tmn* !`, `Pilih Tmn`, sections, m)
                 }
             }
             break
@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *Adam*
+> Nomor : *https://wa.me/62895370925874*
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
 > Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Nama Asli : *Adam... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3048,7 +3048,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+62895370925874'
                                 }
                             }, {
                                 quickReplyButton: {
